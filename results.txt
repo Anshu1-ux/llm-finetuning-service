@@ -1,0 +1,4 @@
+Baseline (base model, no fine-tuning): 40.0% (20/50) exact-match accuracy
+
+After LoRA fine-tuning (300 iters, 1800 examples): 70.0% (35/50) exact-match accuracy
+Improvement: +30 percentage points
